@@ -1,2 +1,2 @@
 $\# Hello
-I updated this in test/conflict_1
+I updated this in test/conflict_2
